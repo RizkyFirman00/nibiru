@@ -1,3 +1,3 @@
 # nibiru_app
 
-A new Flutter project.
+An app to store my money (Rp.)
